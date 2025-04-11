@@ -11,7 +11,7 @@
       <a-sphere position="0 1.25 -5" radius="1.25" color="#cedb9e"></a-sphere>
       <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#6e4141"></a-cylinder>
       <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#b7ebe7"></a-plane>
-      <a-sky color="#d0b7eb"></a-sky>
+      <a-sky color="#e31e1e"></a-sky>
     </a-scene>
   </body>
 </html>
